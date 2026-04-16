@@ -35,6 +35,12 @@
 - tail -f file.log
 - grep ERROR file.log
 
+## SAMPLE TABLE
+| Command | Syntax | Description |
+|---------|--------|-------------|
+|PS | `ps -ef` | show processes |
+|TAIL | `tail -f file.log` | Live log |
+|CHMOD | `chmod 755 script.sh` | Change Permisssions |
 
 ## Author
 **Jamunabharathi**
