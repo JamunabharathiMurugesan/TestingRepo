@@ -28,7 +28,7 @@
 - free -m
 - top
 
-# 5. Log Monitoring & Troubleshooting
+## 5. Log Monitoring & Troubleshooting
 
 - cat file.log
 - less file.log
@@ -50,5 +50,8 @@
 ![Bharathi Profile](bharathi.png)
 
 ***BHARATHI***
+
+---
+
 
 
